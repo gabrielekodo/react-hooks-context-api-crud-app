@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/react-hooks-context-api-user-app/static/js/main.947ddf43.chunk.js",
-    "main.js.map": "/react-hooks-context-api-user-app/static/js/main.947ddf43.chunk.js.map",
-    "runtime-main.js": "/react-hooks-context-api-user-app/static/js/runtime-main.c3d79e51.js",
-    "runtime-main.js.map": "/react-hooks-context-api-user-app/static/js/runtime-main.c3d79e51.js.map",
-    "static/css/2.2e06a912.chunk.css": "/react-hooks-context-api-user-app/static/css/2.2e06a912.chunk.css",
-    "static/js/2.00586a97.chunk.js": "/react-hooks-context-api-user-app/static/js/2.00586a97.chunk.js",
-    "static/js/2.00586a97.chunk.js.map": "/react-hooks-context-api-user-app/static/js/2.00586a97.chunk.js.map",
-    "static/js/3.6570dfa8.chunk.js": "/react-hooks-context-api-user-app/static/js/3.6570dfa8.chunk.js",
-    "static/js/3.6570dfa8.chunk.js.map": "/react-hooks-context-api-user-app/static/js/3.6570dfa8.chunk.js.map",
-    "index.html": "/react-hooks-context-api-user-app/index.html",
-    "static/css/2.2e06a912.chunk.css.map": "/react-hooks-context-api-user-app/static/css/2.2e06a912.chunk.css.map",
-    "static/js/2.00586a97.chunk.js.LICENSE.txt": "/react-hooks-context-api-user-app/static/js/2.00586a97.chunk.js.LICENSE.txt",
-    "static/media/avatar.5e4e360a.png": "/react-hooks-context-api-user-app/static/media/avatar.5e4e360a.png"
+    "main.js": "/react-hooks-context-api-crud-app/static/js/main.947ddf43.chunk.js",
+    "main.js.map": "/react-hooks-context-api-crud-app/static/js/main.947ddf43.chunk.js.map",
+    "runtime-main.js": "/react-hooks-context-api-crud-app/static/js/runtime-main.58d499bd.js",
+    "runtime-main.js.map": "/react-hooks-context-api-crud-app/static/js/runtime-main.58d499bd.js.map",
+    "static/css/2.2e06a912.chunk.css": "/react-hooks-context-api-crud-app/static/css/2.2e06a912.chunk.css",
+    "static/js/2.00586a97.chunk.js": "/react-hooks-context-api-crud-app/static/js/2.00586a97.chunk.js",
+    "static/js/2.00586a97.chunk.js.map": "/react-hooks-context-api-crud-app/static/js/2.00586a97.chunk.js.map",
+    "static/js/3.6570dfa8.chunk.js": "/react-hooks-context-api-crud-app/static/js/3.6570dfa8.chunk.js",
+    "static/js/3.6570dfa8.chunk.js.map": "/react-hooks-context-api-crud-app/static/js/3.6570dfa8.chunk.js.map",
+    "index.html": "/react-hooks-context-api-crud-app/index.html",
+    "static/css/2.2e06a912.chunk.css.map": "/react-hooks-context-api-crud-app/static/css/2.2e06a912.chunk.css.map",
+    "static/js/2.00586a97.chunk.js.LICENSE.txt": "/react-hooks-context-api-crud-app/static/js/2.00586a97.chunk.js.LICENSE.txt",
+    "static/media/avatar.5e4e360a.png": "/react-hooks-context-api-crud-app/static/media/avatar.5e4e360a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c3d79e51.js",
+    "static/js/runtime-main.58d499bd.js",
     "static/css/2.2e06a912.chunk.css",
     "static/js/2.00586a97.chunk.js",
     "static/js/main.947ddf43.chunk.js"

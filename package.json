@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "author": "gabriel ekodo",
-  "homepage": "https://gabrielekodo.github.io/react-hooks-context-api-user-app",
+  "homepage": "https://gabrielekodo.github.io/react-hooks-context-api-crud-app/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
